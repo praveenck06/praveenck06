@@ -1,6 +1,8 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Praveen
+# Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Praveen
 
-## I'm a Senior Research Associate in Philips, India
+I'm Computer science and Deeplearning enthusiast. I hold B.E. in Information Science. I love applying deeplearnig to solve healthcare problems, especially for Neuroscience related challenges.
+
+Currently, I am a Senior Research Associate @ Philips,India
 
 <!--
 **praveenck06/praveenck06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
